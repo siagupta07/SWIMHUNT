@@ -1,1 +1,2 @@
-# SWIMHUNT
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
